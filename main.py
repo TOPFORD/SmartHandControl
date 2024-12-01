@@ -1,3 +1,7 @@
+# pip install opencv-python
+# pip install mediapipe
+# pip install pyserial
+
 import cv2
 import mediapipe as mp
 import serial
